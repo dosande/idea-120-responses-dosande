@@ -1,7 +1,7 @@
 ### A night of horror caused by a locomotive
 
 the artistic medium was impossible to stop
-- [ ] Create close focus chasing lighting
+- [x] Create close focus chasing lighting
 
 stories to express the captured world
 
