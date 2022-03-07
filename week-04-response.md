@@ -1,4 +1,4 @@
-# Images Through a Different Lens
+# Images Through Different Lenses
 
 Imagine this. A nice outdoor area, blue skies, all of your friends. You're feeling adventurous, bold -enough to camp at a prohibited zone-. You put your tents up, place your chairs on the grass, start making food before it's too dark. You take a picture of the moment. You post it on your social media and get hundreds of likes. "Oh, how fearless!" comments one. "This looks like so much fun," says another.
 
