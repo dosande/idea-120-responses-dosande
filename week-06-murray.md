@@ -1,0 +1,5 @@
+# Murray - TV and Internet
+
+Murray argues that television and the internet are two parts of one entity, which are mixed and complement each other. She predicts that linear television -like we currently know it- will be "too passive once it is presented in a digital medium." So she proposes adding elements to TV shows the viewer can explore, look for details, and discover clues for the next episodes. These pieces of information would reveal the thought process of each character, showing possible paths they could've taken but didn't. Allowing the audience to have all this knowledge makes them almost like an omniscient narrator of the story, though they could not have the power to shape the story.
+
+Today's contemporary audience seeks more interaction, craves knowing more than just what is presented to them on screen. However, it is in this mystery -not having all the answers- that people get engaged and want to continue watching these shows. Murray's predictions have not really been successful for TV shows, but we can clearly see this structure in video games, where the player interacts and finds out pieces of information. 
